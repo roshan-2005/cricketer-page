@@ -1,0 +1,69 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.cricketer-rahul-container {
+    background-color: #fb4e71;
+    padding: 15px;
+}
+
+.name {
+    color: white;
+    font-family: "Roboto";
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.description {
+    color: white;
+    font-family: "Roboto";
+    font-size: 14px;
+}
+
+.cricketer-bottom-container {
+    background-color: #e6f6ff;
+    height: 120vh;
+    padding: 10px;
+}
+
+.sub-heading {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    padding: 8px;
+}
+
+.ipl-records-text-container {
+    padding: 8px;
+    background-color: white;
+}
+
+.ipl-record-heading {
+    color: #323f4b;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.ipl-paragraph {
+    color: #888888;
+    font-family: Roboto;
+    font-size: 14px;
+}
+
+.cricket-video-text {
+    width: 96px;
+    margin: 5px;
+}
+
+.cricketer-description {
+    font-family: Roboto;
+    font-size: 12px;
+}
+.button{
+    background-color: blue;
+    width: 122px;
+    align-content: center;
+    color: rgb(255, 255, 255);
+    border-radius: 1px;
+    height: 150vh;
+}
